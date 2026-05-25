@@ -91,7 +91,7 @@
 
   /* ── HERO ────────────────────────────────────── */
   .hero {
-    background: linear-gradient(135deg, var(--espresso) 0%, var(--dark-roast) 60%, var(--medium-roast) 100%);
+    background: linear-gradient(rgba(44, 24, 16, 0.8), rgba(44, 24, 16, 0.9)), url('fundo-cafe.jpg') center/cover;
     padding: 52px 20px 44px;
     text-align: center;
     position: relative;
